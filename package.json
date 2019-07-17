@@ -1,0 +1,12 @@
+{
+  "name": "tableau-extensions-tutorial-part-one",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/gujunjie0925/tableau-extensions-tutorial-part-one",
+  "author": "gujunjie0925 <gujunjie@mchz.com.cn>",
+  "license": "MIT",
+  "dependencies": {
+    "bootstrap": "^4.3.1",
+    "jquery": "^3.4.1"
+  }
+}
